@@ -14,4 +14,5 @@ Interpreted final GBM model by plotting global feature importance using shapley 
 
 The most important feature was found out to be year, it has a positive correlation with the prices of cars. The higher the value of year feature(the recent model it is), the higher is the Car Price(impact on model output). Meaning the cars manufactured in the recent years will have higher prices.The second important feature was found to be model. The next was the mileage having negative correlation with Car Price. The higher the mileage, the lower is the price.
 
-<img width="1467" alt="image" src="https://github.com/UtkarshaGupte/Car-Prices-Prediction/assets/89600822/10101da1-f897-41b2-a537-4b0631409cc3">
+<img width="1468" alt="image" src="https://github.com/UtkarshaGupte/Car-Prices-Prediction/assets/89600822/07fdf7a9-847b-423b-b126-e19cc6b5ed7e">
+
