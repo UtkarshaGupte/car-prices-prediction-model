@@ -13,3 +13,5 @@ The GBM model after model tuning performed with an RMSE value of 18736, MAE of 8
 Interpreted final GBM model by plotting global feature importance using shapley values, permutation feature importance, summary plot and individual observation analysis using shapley values.
 
 The most important feature was found out to be year, it has a positive correlation with the prices of cars. The higher the value of year feature(the recent model it is), the higher is the Car Price(impact on model output). Meaning the cars manufactured in the recent years will have higher prices.The second important feature was found to be model. The next was the mileage having negative correlation with Car Price. The higher the mileage, the lower is the price.
+
+<img width="1467" alt="image" src="https://github.com/UtkarshaGupte/Car-Prices-Prediction/assets/89600822/10101da1-f897-41b2-a537-4b0631409cc3">
